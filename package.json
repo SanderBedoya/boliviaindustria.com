@@ -1,0 +1,14 @@
+{
+  "name": "boliviacomercio.com",
+  "version": "1.0.0",
+  "description": "boliviacomercio.com",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sander Bedoya",
+  "license": "ISC"
+}
